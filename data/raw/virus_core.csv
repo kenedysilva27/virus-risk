@@ -1,0 +1,74 @@
+virus_id,name,family,genus,genome_type,strand,enveloped
+1,SARS-CoV-2,,Betacoronavirus,RNA,ssRNA(+),True
+2,Influenza A virus,Orthomyxoviridae,,rna,ssRNA(-),True
+3,HIV-1,Retroviridae,Lentivirus,RNA,ssRNA-RT,True
+4,Ebola virus,Filoviridae,Ebolavirus,RNA,ssRNA(-),True
+5,Zika virus,,Flavivirus,RNA,ssRNA(+),True
+6,Dengue virus,Flaviviridae,,RNA,ssRNA(+),True
+7,Rabies virus,Rhabdoviridae,Lyssavirus,RNA,ssRNA(-),True
+8,Hepatitis B virus,Hepadnaviridae,Orthohepadnavirus,DNA,partially dsDNA,True
+9,Adenovirus,Adenoviridae,Mastadenovirus,DNA,dsDNA,False
+10,Human papillomavirus,Papillomaviridae,Alphapapillomavirus,DNA,dsDNA,False
+11,MERS-CoV,,Betacoronavirus,RNA ,ssRNA(+),True
+12,HCoV-OC43,Coronaviridae,Betacoronavirus,RNA,ssRNA(+),True
+13,HCoV-229E,Coronaviridae,Alphacoronavirus,RNA,ssRNA(+),True
+14,Norovirus,Caliciviridae,Norovirus,RNA,ssRNA(+),False
+15,Rotavirus,Reoviridae,Rotavirus,RNA,dsRNA,False
+16,Marburg virus,Filoviridae,Marburgvirus,RNA,ssRNA(-),True
+17,Lassa virus,Arenaviridae,Mammarenavirus,RNA,ssRNA,True
+18,Hantavirus,Hantaviridae,,RNA,ssRNA(-),True
+19,Yellow fever virus,,,RNA,ssRNA(+),True
+20,West Nile virus,Flaviviridae,Flavivirus,RNA,ssRNA(+),True
+21,Japanese encephalitis virus,Flaviviridae,Flavivirus,RNA,ssRNA(+),True
+22,Measles virus,Paramyxoviridae,Morbillivirus,RNA,ssRNA(-),True
+23,Mumps virus,,Orthorubulavirus,RNA,ssRNA(-),True
+24,Respiratory syncytial virus,Pneumoviridae,Orthopneumovirus,RNA,ssRNA(-),True
+25,Smallpox virus,Poxviridae,Orthopoxvirus,DNA,dsDNA,True
+26,Monkeypox virus,Poxviridae,Orthopoxvirus,Rna,dsDNA,True
+27,Varicella-zoster virus,Herpesviridae,Varicellovirus,DNA,dsDNA,True
+28,Herpes simplex virus 1,Herpesviridae,Simplexvirus,DNA,dsDNA,True
+29,Herpes simplex virus 2,Herpesviridae,Simplexvirus,DNA,dsDNA,True
+30,Cucurbit vein yellowing-associated varicosavirus,Unknown,Unknown,Unknown,Unknown,
+31,Aeromonas phage Aero_H33,Unknown,Unknown,Unknown,Unknown,
+32,Salmonella Siphovirus,Unknown,Unknown,Unknown,Unknown,
+33,Klebsiella phage vB_GCMC-1,Unknown,Unknown,Unknown,Unknown,
+34,Escherichia phage vB-EcoM-Eg05,Unknown,Unknown,Unknown,Unknown,
+35,Escherichia phage ECP2402,Unknown,Unknown,Unknown,Unknown,
+36,Pseudomonas phage vB_PaeA-38F,Unknown,Unknown,Unknown,Unknown,
+37,Colletotrichum-associated mitovirus 1,Unknown,Unknown,Unknown,Unknown,
+38,Colletotrichum tropicale botourmia-like virus,Unknown,Unknown,Unknown,Unknown,
+39,Colletotrichum queenslandicum fusarivirus 1,Unknown,Unknown,Unknown,Unknown,
+40,Colletotrichum plurivorum mitovirus 1,Unknown,Unknown,Unknown,Unknown,
+41,Escherichia phage ev_rybdy6,Unknown,Unknown,Unknown,Unknown,
+42,Escherichia phage ev_rybdy2,Unknown,Unknown,Unknown,Unknown,
+43,Escherichia phage ev_rybdy1,Unknown,Unknown,Unknown,Unknown,
+44,Klebsiella phage kv_tblp7,Unknown,Unknown,Unknown,Unknown,
+45,Klebsiella phage kv_tblp6,Unknown,Unknown,Unknown,Unknown,
+46,Klebsiella phage kv_tblp4,Unknown,Unknown,Unknown,Unknown,
+47,Klebsiella phage kv_tblp3,Unknown,Unknown,Unknown,Unknown,
+48,Klebsiella phage kv_tblp1,Unknown,Unknown,Unknown,Unknown,
+49,Staphylococcus phage sv_nwjns7,Unknown,Unknown,Unknown,Unknown,
+50,Staphylococcus phage sv_nwjns5,,Unknown,Unknown,Unknown,
+51,Staphylococcus phage sv_nwjns4,Unknown,Unknown,Unknown,Unknown,
+52,Escherichia phage CFT073_Phlampion,Unknown,Unknown,Unknown,Unknown,
+53,Escherichia phage CFT073_Phlash,Unknown,Unknown,Unknown,Unknown,
+54,Mardivirus gallidalpha 2,Unknown,Unknown,Unknown,Unknown,
+55,Arthrobacter phage Vinye,,Unknown,Unknown,Unknown,
+56,Arthrobacter phage Studio,Unknown,Unknown,Unknown,Unknown,
+57,Arthrobacter phage PoeMe,Unknown,Unknown,Unknown,Unknown,
+58,Arthrobacter phage Onestar,Unknown,Unknown,Unknown,Unknown,
+59,Arthrobacter phage Mireles,Unknown,Unknown,Unknown,Unknown,
+60,Mycobacterium phage LordVader,Unknown,Unknown,Unknown,Unknown,
+61,Arthrobacter phage LastNadiia,Unknown,Unknown,Unknown,Unknown,
+62,Microbacterium phage Kamdara,Unknown,Unknown,Unknown,Unknown,
+63,Arthrobacter phage GalaxyEater,Unknown,Unknown,Unknown,Unknown,
+64,Arthrobacter phage ERHickory,Unknown,Unknown,Unknown,Unknown,
+65,Arthrobacter phage Ellewin,Unknown,Unknown,Unknown,Unknown,
+66,Arthrobacter phage Divya,Unknown,Unknown,Unknown,Unknown,
+67,Mycobacterium phage Beanstalk,Unknown,Unknown,Unknown,Unknown,
+68,Arthrobacter phage Amphitrite,Unknown,Unknown,Unknown,Unknown,
+69,Arthrobacter phage Agamotto,Unknown,Unknown,Unknown,Unknown,
+70,Klebsiella phage Kp_AHMU1,Unknown,Unknown,Unknown,Unknown,
+3,HIV-1,Retroviridae,Lentivirus,RNA,ssRNA-RT,True
+16,Marburg virus,Filoviridae,Marburgvirus,RNA,ssRNA(-),True
+41,Escherichia phage ev_rybdy6,Unknown,Unknown,Unknown,Unknown,
