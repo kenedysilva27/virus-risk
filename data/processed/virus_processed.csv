@@ -1,0 +1,71 @@
+virus_id,family,genus,genome_type,strand,enveloped,transmission,mortality,r0,host,target
+1,Unknown,Betacoronavirus,RNA,ssRNA(+),True,airborne,2.0,2.5,human,0
+2,Orthomyxoviridae,Unknown,RNA,ssRNA(-),True,airborne,0.1,1.3,human,0
+3,Retroviridae,Lentivirus,RNA,ssRNA-RT,True,bodily fluids,80.0,2.0,human,1
+4,Filoviridae,Ebolavirus,RNA,ssRNA(-),True,airborne,5.91,1.8,human,0
+5,Unknown,Flavivirus,RNA,ssRNA(+),True,vector,0.01,3.0,human,0
+6,Flaviviridae,Unknown,RNA,ssRNA(+),True,vector,5.91,4.0,human,0
+7,Rhabdoviridae,Lyssavirus,RNA,ssRNA(-),True,animal bite,99.0,0.5,animal,1
+8,Hepadnaviridae,Orthohepadnavirus,DNA,partially dsDNA,True,airborne,4.1,1.59,Unknown,0
+9,Adenoviridae,Mastadenovirus,DNA,dsDNA,False,vector,0.23,500.0,human,0
+10,Papillomaviridae,Alphapapillomavirus,DNA,dsDNA,False,vector,5.91,2.99,animal,0
+11,Unknown,Betacoronavirus,RNA,ssRNA(+),True,airborne,1.56,3.46,animal,0
+12,Coronaviridae,Betacoronavirus,RNA,ssRNA(+),True,vector,6.1,2.06,human,0
+13,Coronaviridae,Alphacoronavirus,RNA,ssRNA(+),True,bodily fluids,5.91,2.75,both,0
+14,Caliciviridae,Norovirus,RNA,ssRNA(+),False,vector,5.05,2.31,Unknown,0
+15,Reoviridae,Rotavirus,RNA,dsRNA,False,contact,2.7,2.92,human,0
+16,Filoviridae,Marburgvirus,RNA,ssRNA(-),True,contact,5.91,1.18,both,0
+17,Arenaviridae,Mammarenavirus,RNA,ssRNA,True,contact,9.8,3.19,animal,0
+18,Hantaviridae,Unknown,RNA,ssRNA(-),True,contact,0.45,2.76,both,0
+19,Unknown,Unknown,RNA,ssRNA(+),True,vector,5.16,0.99,animal,0
+20,Flaviviridae,Flavivirus,RNA,ssRNA(+),True,contact,7.99,0.53,animal,0
+21,Flaviviridae,Flavivirus,RNA,ssRNA(+),True,bodily fluids,6.53,-1.2,Unknown,0
+22,Paramyxoviridae,Morbillivirus,RNA,ssRNA(-),True,contact,1.59,2.29,human,0
+23,Unknown,Orthorubulavirus,RNA,ssRNA(-),True,contact,9.84,1.98,animal,0
+24,Pneumoviridae,Orthopneumovirus,RNA,ssRNA(-),True,airborne,5.07,1.52,both,0
+25,Poxviridae,Orthopoxvirus,DNA,dsDNA,True,bodily fluids,0.85,1.5,animal,0
+26,Poxviridae,Orthopoxvirus,RNA,dsDNA,True,airborne,2.12,2.97,animal,0
+27,Herpesviridae,Varicellovirus,DNA,dsDNA,True,vector,6.48,2.2,animal,0
+28,Herpesviridae,Simplexvirus,DNA,dsDNA,True,contact,0.56,1.83,human,0
+29,Herpesviridae,Simplexvirus,DNA,dsDNA,True,bodily fluids,7.82,1.88,human,0
+30,Unknown,Unknown,Unknown,Unknown,Unknown,vector,7.72,2.2,animal,0
+31,Unknown,Unknown,Unknown,Unknown,Unknown,contact,99.9,2.36,Unknown,0
+32,Unknown,Unknown,Unknown,Unknown,Unknown,contact,1.99,3.3,animal,0
+33,Unknown,Unknown,Unknown,Unknown,Unknown,contact,8.43,1.7,animal,0
+34,Unknown,Unknown,Unknown,Unknown,Unknown,airborne,6.83,2.71,animal,0
+35,Unknown,Unknown,Unknown,Unknown,Unknown,contact,2.95,3.29,animal,0
+36,Unknown,Unknown,Unknown,Unknown,Unknown,airborne,6.71,2.05,both,0
+37,Unknown,Unknown,Unknown,Unknown,Unknown,bodily fluids,9.55,0.51,both,0
+38,Unknown,Unknown,Unknown,Unknown,Unknown,vector,7.36,0.95,animal,0
+39,Unknown,Unknown,Unknown,Unknown,Unknown,vector,8.33,0.92,both,0
+40,Unknown,Unknown,Unknown,Unknown,Unknown,airborne,6.95,3.43,both,0
+41,Unknown,Unknown,Unknown,Unknown,Unknown,vector,9.13,1.18,human,0
+42,Unknown,Unknown,Unknown,Unknown,Unknown,airborne,7.0,3.35,Unknown,0
+43,Unknown,Unknown,Unknown,Unknown,Unknown,vector,5.91,1.43,both,0
+44,Unknown,Unknown,Unknown,Unknown,Unknown,bodily fluids,5.29,2.67,both,0
+45,Unknown,Unknown,Unknown,Unknown,Unknown,contact,2.65,0.98,both,0
+46,Unknown,Unknown,Unknown,Unknown,Unknown,contact,4.75,1.23,human,0
+47,Unknown,Unknown,Unknown,Unknown,Unknown,bodily fluids,8.77,1.34,human,0
+48,Unknown,Unknown,Unknown,Unknown,Unknown,vector,4.29,1.35,both,0
+49,Unknown,Unknown,Unknown,Unknown,Unknown,vector,2.6,1.55,human,0
+50,Unknown,Unknown,Unknown,Unknown,Unknown,bodily fluids,8.32,2.17,human,0
+51,Unknown,Unknown,Unknown,Unknown,Unknown,airborne,9.26,0.65,both,0
+52,Unknown,Unknown,Unknown,Unknown,Unknown,vector,9.44,2.9,animal,0
+53,Unknown,Unknown,Unknown,Unknown,Unknown,vector,9.88,3.03,human,0
+54,Unknown,Unknown,Unknown,Unknown,Unknown,airborne,0.57,2.82,both,0
+55,Unknown,Unknown,Unknown,Unknown,Unknown,bodily fluids,7.73,1.58,both,0
+56,Unknown,Unknown,Unknown,Unknown,Unknown,vector,2.64,1.67,both,0
+57,Unknown,Unknown,Unknown,Unknown,Unknown,vector,1.48,3.06,Unknown,0
+58,Unknown,Unknown,Unknown,Unknown,Unknown,vector,6.9,3.47,both,0
+59,Unknown,Unknown,Unknown,Unknown,Unknown,airborne,0.72,2.26,both,0
+60,Unknown,Unknown,Unknown,Unknown,Unknown,vector,9.65,0.53,human,0
+61,Unknown,Unknown,Unknown,Unknown,Unknown,bodily fluids,7.68,2.75,both,0
+62,Unknown,Unknown,Unknown,Unknown,Unknown,bodily fluids,9.15,2.95,both,0
+63,Unknown,Unknown,Unknown,Unknown,Unknown,vector,1.37,1.7,both,0
+64,Unknown,Unknown,Unknown,Unknown,Unknown,vector,3.76,2.55,animal,0
+65,Unknown,Unknown,Unknown,Unknown,Unknown,bodily fluids,6.3,2.52,both,0
+66,Unknown,Unknown,Unknown,Unknown,Unknown,airborne,3.92,1.32,both,0
+67,Unknown,Unknown,Unknown,Unknown,Unknown,contact,1.2,1.21,both,0
+68,Unknown,Unknown,Unknown,Unknown,Unknown,bodily fluids,3.41,1.03,both,0
+69,Unknown,Unknown,Unknown,Unknown,Unknown,airborne,4.29,1.19,animal,0
+70,Unknown,Unknown,Unknown,Unknown,Unknown,bodily fluids,7.25,0.75,animal,0
