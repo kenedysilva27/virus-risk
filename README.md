@@ -65,3 +65,7 @@ pip install -r requirements.txt
 - **Resultado**: recall de 100% na classe positiva (identificou os 2 vírus de alto risco), com 1 falso positivo que corresponde a um registro com suspeita de erro de rotulagem
 
 Detalhes completos e considerações pra gestão em `Apresentacao/resumo_executivo.md`.
+
+## Apresentação em vídeo
+
+https://www.loom.com/share/5119258cb9db4e77b97ae0d2f852f069
